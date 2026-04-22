@@ -14,5 +14,5 @@ Screenshot of Ian Miers tweet "Bitcoin is Twitter for your bank account!"
   - Sapling
   - orchard
 ## Call to Action
-- Tell pacu to send yerba to roosevelt so the can write all night.
+- Tell Pacu to send yerba to Roosevelt so the can write all night.
 - Roosevelt, send draft in the next 10 days.
